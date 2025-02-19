@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.326,D:\Move Stars\Star1.pas=D:\Move Stars\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,=D:\Move Stars\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.017,D:\Move Stars\MainProg.dfm=D:\Move Stars\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,D:\Move Stars\Project1.dproj=D:\Move Stars\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.016,D:\Move Stars\MainProg.pas=D:\Move Stars\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
